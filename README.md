@@ -2,7 +2,6 @@
 
 A beautiful, responsive weather dashboard application that provides real-time weather information for any location around the world.
 
-![Weather Dashboard](https://i.imgur.com/JSil7dL.png)
 
 ## ✨ Features
 
@@ -76,13 +75,8 @@ A beautiful, responsive weather dashboard application that provides real-time we
 
 5. Open your browser and navigate to `http://localhost:5000`
 
-## 🖼️ Screenshots
 
-### Desktop View
-![Desktop View](https://i.imgur.com/L4TgZMD.png)
 
-### Mobile View
-![Mobile View](https://i.imgur.com/mXxwKEs.png)
 
 ## 🔜 Future Enhancements
 
@@ -92,10 +86,6 @@ A beautiful, responsive weather dashboard application that provides real-time we
 - **User Accounts**: Save favorite locations and preferences
 - **Weather Alerts**: Notifications for severe weather conditions
 - **Historical Data**: View past weather data for comparison
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
